@@ -1,5 +1,5 @@
 ##Project Hourglass
-Test project to learn Unity and GitHUb
+- Test project to learn Unity and GitHUb
 
 ### Welcome to GitHub Pages
 
